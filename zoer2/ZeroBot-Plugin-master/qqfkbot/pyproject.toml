@@ -1,0 +1,29 @@
+[project]
+name = "qqfkbot"
+version = "0.1.0"
+description = "qqfkbot"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "QQ", module_name = "nonebot.adapters.qq" }
+]
+plugins = []
+plugin_dirs = []
+builtin_plugins = ["echo"]
+
+[tool.poetry]
+name = "qqfkbot"
+version = "0.1.0"
+description = ""
+authors = ["3515461454"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

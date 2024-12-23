@@ -1,0 +1,17 @@
+{
+  "Uin": 2269324141,
+  "Uid": "u_0wAyDNxwzz1jVUkycYlROg",
+  "PasswordMd5": "D41D8CD98F00B204E9800998ECF8427E",
+  "Session": {
+    "D2Key": "IVNAe18hOUdpS2FBci0rTQ==",
+    "D2": "77I+nbMJyOhuxZU3Q9XKVFEr5uDQYForZD4l7a1SpYFkoTif5q6YI3GU6iI5YUoobzcqDFv7WBWAkJB+9MVeePLpkLWZG3AGbATAohqxop5WR5lY40cOYA==",
+    "Tgt": "5kunt4ZncJyp6I5M7wgfCQX2X9Tdxfexd6m0U09DzunyK8igjg5puf7b//u26LRFTLlQjofoOOklZM4CqKY7ke0Iz9tRxQ9E",
+    "SessionDate": "2024-09-04T17:25:38.5630029+08:00",
+    "TempPassword": "RxQbFOMGcV/ADiTYalOsQQN9fmAjK5NtTIONBxTo7BndL4yX8ESaCD9bobb6YgfkONlcpbwHf/0AkQ8A2IJtfg5diQbN7OVMXqnAE9uJTM6r/THWAqom2P+BWfNPAM17lqtpBxqyen238zjlkkFJnXhO3uCDRVhGi54p9k0vGmqA+kypJh3GmzKwsS/BL9Edmh8NsBkfXdo="
+  },
+  "Info": {
+    "Age": 0,
+    "Gender": 0,
+    "Name": "bot"
+  }
+}

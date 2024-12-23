@@ -1,0 +1,13 @@
+{
+  "zero": {
+    "nickname": ["机器人的名字", "椛椛", "雷神"],
+    "command_prefix": "/",
+    "super_users": [2269324141],
+    "ring_len": 4096,
+    "latency": 233000000,
+    "max_process_time": 240000000000,
+    "mark_message": true
+  },
+  "ws": [{ "Url": "ws://127.0.0.1:8081", "AccessToken": "" }],
+  "wss": null
+}
